@@ -6,4 +6,5 @@ while i < end:
         result += i
     i += 1
 print(result)
+
 # 233168
