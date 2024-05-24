@@ -35,3 +35,5 @@ while date[0] < 2001:
     date = nextDate(date)
     day = (day + 1)%7
 print(result)
+
+# 171
