@@ -13,7 +13,7 @@ class Solution:
 # metadata
 # relevant-topics binary search, sliding window
 # time-complexity O(NlogN) 5.00%
-# space-complexity O(N) 40.34%%
+# space-complexity O(N) 40.34%
 # language python
 # difficulty hard
 # date 20240530
