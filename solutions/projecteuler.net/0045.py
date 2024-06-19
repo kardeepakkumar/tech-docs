@@ -10,7 +10,7 @@ def binSearch(nums, n):
             r = m-1
     return False
 
-limit = 300000
+limit = 3 * 10**9
 T, P, H = [1], [1], [1]
 result = []
 for i in range(0,limit):
